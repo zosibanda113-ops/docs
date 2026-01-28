@@ -2,4 +2,4 @@
 
 # [Choice] Node.js version
 ARG VARIANT="dev-24-bullseye"
-FROM mcr.microsoft.com/devcontainers/javascript-node:${VARIANT}
+FROM mcr.microsoft.com/devcontainers/javascript-node:${VARIANT
